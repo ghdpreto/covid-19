@@ -1,5 +1,19 @@
 # covid-19
 
+## O que é?
 
-# Layout base
-https://www.figma.com/file/hknYwYQDvyBjxugcCxf05F/Covid-19_App-UI_FREEBIE?node-id=1%3A2
+Web site para acompanhar os casos de covid-19
+
+## Motivo
+
+Aplicar os conhecimentos adquiridos durante a NWL 1 da Rocketseat, aprimorar as habilidade com criação de layout e responsividade de sites
+
+## Tecnologia utilizada
+
+* HTML
+* CSS
+
+# Créditos Layout
+
+* Dribbble: dribbble.com/im_prateek
+
