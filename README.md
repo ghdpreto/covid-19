@@ -6,7 +6,7 @@ Web site para acompanhar os casos de covid-19
 
 ## Motivo
 
-Aplicar os conhecimentos adquiridos durante a NWL 1 da Rocketseat, aprimorar as habilidade com criação de layout e responsividade de sites
+Aplicar os conhecimentos adquiridos durante a NLW #1 da Rocketseat, aprimorar as habilidade com criação de layout e responsividade de sites
 
 ## Tecnologia utilizada
 
